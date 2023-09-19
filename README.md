@@ -5,7 +5,7 @@ This is a web app that promps the user to login with an account that is already 
 <img width="1698" alt="bankst app" src="https://user-images.githubusercontent.com/112902224/233224861-3ed560cd-cc2d-479d-82ec-41e80d131fec.png">
 
 ### Live Application
-You can access the live application by following this link: [Bankist](https://natali-a-lvarez.github.io/Bankist/)
+You can access the live application by following this link: [Bankist](https://natali-a-lvarez.github.io/Bankist/) (test login by using username: js, password: 1111)
 
 ### This summary includes:
 * Deposits
